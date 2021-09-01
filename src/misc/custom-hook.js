@@ -1,3 +1,4 @@
+/* eslint-disable no-console */
 import { useReducer, useEffect, useState, useRef, useCallback } from "react";
 import { apiGet } from "./config";
 
